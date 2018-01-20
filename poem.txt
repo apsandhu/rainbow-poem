@@ -5,3 +5,5 @@ VOILET
 Indigo
 blue
 Green
+Yellow
+Orange
